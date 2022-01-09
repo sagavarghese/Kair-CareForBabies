@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "792808915428",
+    "firebase_url": "https://kaircareforbabies-82394.firebaseio.com",
+    "project_id": "kaircareforbabies-82394",
+    "storage_bucket": "kaircareforbabies-82394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792808915428:android:0e58e7bc38f7155c5747f1",
+        "android_client_info": {
+          "package_name": "com.example.kair_careforbabies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792808915428-6lqumi5umgjehrecv1f9qbldvp5neq7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kair_careforbabies",
+            "certificate_hash": "c3aa3d05e37fe323b97f964c7aa7ba32055a490e"
+          }
+        },
+        {
+          "client_id": "792808915428-pjr149ns3mpfg5a20ercl3kohc2aa5lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kair_careforbabies",
+            "certificate_hash": "43f573ec0b17736793bb890338686dd4d7fa88b3"
+          }
+        },
+        {
+          "client_id": "792808915428-4rqmrtenvq0q1k0k2kbk4v8i9oj0rj0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsgbUo5a-kieG1YtI9-esdGUDXKKIhbJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792808915428-4rqmrtenvq0q1k0k2kbk4v8i9oj0rj0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
