@@ -1,5 +1,5 @@
 # Kair-CareForBabies
-a mobile application to purchase all baby products, setting remainders,
+A mobile application to purchase all baby products, setting remainders,
 finding the right name for your babies, making memories through photo albums.
 • Included exciting contests and offered different types of prizes in our application to
 make the users get more familiarized with the user interface.
